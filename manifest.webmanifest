@@ -1,0 +1,12 @@
+{
+  "name": "Choruswild",
+  "short_name": "Choruswild",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080d18",
+  "theme_color": "#111a2d",
+  "description": "An original musical monster collection game for GitHub Pages.",
+  "icons": [
+    {"src":"app-icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
